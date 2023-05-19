@@ -17,7 +17,7 @@ with open('network_data.csv', 'r') as file:
                 rtts.append(rtt)
             except ValueError:
                 print(f"Skipping invalid row: {row}")
-#print(rtt)
+                
 plt.plot(timestamps, rtts)
 plt.xlabel('Timestamp')
 plt.ylabel('Round-trip Time (ms)')
