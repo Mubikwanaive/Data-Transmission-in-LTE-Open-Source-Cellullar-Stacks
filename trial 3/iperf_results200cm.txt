@@ -1,0 +1,16 @@
+Iteration | Throughput (Mbps)
+1 | [  3] 0.0000-11.5733 sec  2.96 MBytes  2.14 Mbits/sec
+2 | [  3] 0.0000-11.0252 sec  1.00 MBytes   761 Kbits/sec
+3 | [  3] 0.0000-10.2585 sec  3.00 MBytes  2.45 Mbits/sec
+4 | [  3] 0.0000-11.3773 sec  4.14 MBytes  3.05 Mbits/sec
+5 | 
+6 | [  3] 0.0000-10.5371 sec  5.63 MBytes  4.48 Mbits/sec
+7 | [  3] 0.0000-10.1829 sec  3.00 MBytes  2.47 Mbits/sec
+8 | [  3] 0.0000-12.9222 sec  2.48 MBytes  1.61 Mbits/sec
+9 | 
+10 | [  3] 0.0000-12.0502 sec  1.16 MBytes   805 Kbits/sec
+11 | 
+12 | [  3] 0.0000-10.1638 sec  7.00 MBytes  5.78 Mbits/sec
+13 | [  3] 0.0000-10.6015 sec  4.75 MBytes  3.76 Mbits/sec
+14 | [  3] 0.0000-10.1486 sec  5.75 MBytes  4.75 Mbits/sec
+15 | [  3] 0.0000-12.7109 sec  2.01 MBytes  1.33 Mbits/sec
