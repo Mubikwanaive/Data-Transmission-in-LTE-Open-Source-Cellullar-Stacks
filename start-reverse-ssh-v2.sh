@@ -19,7 +19,9 @@ while true; do
   if ping -q -c 1 -W 3 172.16.0.1 >/dev/null; then
     # Network is up, so establish the tunnel
     echo "hello"
-    establish_tunnel
+    establish_tunnel &    # run function in the background
+    tunnel_pid=$!         # get the PID of the background process
+    wait $tunnel_pid      # Wait for the background process to complete
   else
     # Network is down, so wait a few seconds and check again
     echo "Network connection lost. Waiting 5 seconds to check again..."
