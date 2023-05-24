@@ -7,7 +7,7 @@ remote_port="2222"
 
 # Function to establish the reverse SSH tunnel
 function establish_tunnel {
-  ssh -N -T -R ${remote_port}:localhost:22 ${remote_user}@${remote_host}
+  autossh -N -T -R ${remote_port}:localhost:22 ${remote_user}@${remote_host}
   echo "Reverse SSH tunnel terminated. Trying to reconnect in 3 seconds..."
  # sleep 3
 }
