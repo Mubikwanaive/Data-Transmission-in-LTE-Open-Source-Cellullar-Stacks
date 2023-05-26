@@ -1,0 +1,166 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  1] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21112 (icwnd/mss/irtt=14/1448/19950)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.8129 sec  6.38 MBytes  4.95 Mbits/sec
+[  2] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21113 (icwnd/mss/irtt=14/1448/19919)
+[ ID] Interval       Transfer     Bandwidth
+[  2] 0.0000-11.7679 sec  8.50 MBytes  6.06 Mbits/sec
+[  3] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/19979)
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-11.1569 sec  5.25 MBytes  3.95 Mbits/sec
+[  4] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/19907)
+[ ID] Interval       Transfer     Bandwidth
+[  4] 0.0000-10.9787 sec  7.63 MBytes  5.83 Mbits/sec
+[  5] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21116 (icwnd/mss/irtt=14/1448/39885)
+[ ID] Interval       Transfer     Bandwidth
+[  5] 0.0000-11.2609 sec  13.4 MBytes  9.96 Mbits/sec
+[  6] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/39778)
+[ ID] Interval       Transfer     Bandwidth
+[  6] 0.0000-11.7628 sec  13.1 MBytes  9.36 Mbits/sec
+[  7] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21118 (icwnd/mss/irtt=14/1448/31101)
+[ ID] Interval       Transfer     Bandwidth
+[  7] 0.0000-11.3698 sec  10.6 MBytes  7.84 Mbits/sec
+[  8] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21119 (icwnd/mss/irtt=14/1448/20275)
+[ ID] Interval       Transfer     Bandwidth
+[  8] 0.0000-11.0476 sec  7.63 MBytes  5.79 Mbits/sec
+[  9] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/19953)
+[ ID] Interval       Transfer     Bandwidth
+[  9] 0.0000-11.7219 sec  12.1 MBytes  8.68 Mbits/sec
+[ 10] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21121 (icwnd/mss/irtt=14/1448/40039)
+[ ID] Interval       Transfer     Bandwidth
+[ 10] 0.0000-10.8507 sec  15.0 MBytes  11.6 Mbits/sec
+[ 11] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/19929)
+[ ID] Interval       Transfer     Bandwidth
+[ 11] 0.0000-11.0629 sec  10.6 MBytes  8.06 Mbits/sec
+[ 12] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21112 (icwnd/mss/irtt=14/1448/39898)
+[ 13] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/33957)
+[ ID] Interval       Transfer     Bandwidth
+[ 13] 0.0000-15.9443 sec  4.38 MBytes  2.30 Mbits/sec
+[ 14] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/51113)
+[ 14] 0.0000-16.2417 sec  2.88 MBytes  1.48 Mbits/sec
+[ 15] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21116 (icwnd/mss/irtt=14/1448/32812)
+[ 12] 0.0000-73.8019 sec  4.27 MBytes   485 Kbits/sec
+[ 15] 0.0000-13.7736 sec  2.50 MBytes  1.52 Mbits/sec
+[SUM] 0.0000-85.8575 sec  14.0 MBytes  1.37 Mbits/sec
+[ 16] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/19975)
+[ ID] Interval       Transfer     Bandwidth
+[ 16] 0.0000-11.2839 sec  5.88 MBytes  4.37 Mbits/sec
+[ 17] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21118 (icwnd/mss/irtt=14/1448/39830)
+[ 18] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/20034)
+[ ID] Interval       Transfer     Bandwidth
+[ 17] 0.0000-48.4905 sec  7.21 MBytes  1.25 Mbits/sec
+[ 18] 0.0000-10.7576 sec  7.38 MBytes  5.75 Mbits/sec
+[SUM] 0.0000-51.7336 sec  14.6 MBytes  2.36 Mbits/sec
+[ 19] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21113 (icwnd/mss/irtt=14/1448/40013)
+[ ID] Interval       Transfer     Bandwidth
+[ 19] 0.0000-10.3425 sec  11.0 MBytes  8.92 Mbits/sec
+[ 20] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21121 (icwnd/mss/irtt=14/1448/20007)
+[ ID] Interval       Transfer     Bandwidth
+[ 20] 0.0000-11.2157 sec  16.8 MBytes  12.5 Mbits/sec
+[ 21] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/19932)
+[ ID] Interval       Transfer     Bandwidth
+[ 21] 0.0000-10.8861 sec  12.9 MBytes  9.92 Mbits/sec
+[ 22] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21122 (icwnd/mss/irtt=14/1448/19924)
+[ ID] Interval       Transfer     Bandwidth
+[ 22] 0.0000-10.9511 sec  9.13 MBytes  6.99 Mbits/sec
+[ 23] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21112 (icwnd/mss/irtt=14/1448/29172)
+[ ID] Interval       Transfer     Bandwidth
+[ 23] 0.0000-11.9157 sec  10.1 MBytes  7.13 Mbits/sec
+[ 24] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/20193)
+[ ID] Interval       Transfer     Bandwidth
+[ 24] 0.0000-10.7707 sec  11.4 MBytes  8.86 Mbits/sec
+[ 25] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21116 (icwnd/mss/irtt=14/1448/19878)
+[ ID] Interval       Transfer     Bandwidth
+[ 25] 0.0000-11.0860 sec  8.50 MBytes  6.43 Mbits/sec
+[ 26] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/79891)
+[ ID] Interval       Transfer     Bandwidth
+[ 26] 0.0000-11.1670 sec  10.1 MBytes  7.61 Mbits/sec
+[ 27] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21123 (icwnd/mss/irtt=14/1448/19945)
+[ ID] Interval       Transfer     Bandwidth
+[ 27] 0.0000-11.2561 sec  11.4 MBytes  8.48 Mbits/sec
+[ 28] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21119 (icwnd/mss/irtt=14/1448/19864)
+[ ID] Interval       Transfer     Bandwidth
+[ 28] 0.0000-11.6823 sec  11.3 MBytes  8.08 Mbits/sec
+[ 29] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21118 (icwnd/mss/irtt=14/1448/19892)
+[ ID] Interval       Transfer     Bandwidth
+[ 29] 0.0000-12.1371 sec  10.9 MBytes  7.52 Mbits/sec
+[ 30] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21113 (icwnd/mss/irtt=14/1448/39860)
+[ ID] Interval       Transfer     Bandwidth
+[ 30] 0.0000-13.2121 sec  6.25 MBytes  3.97 Mbits/sec
+[ 31] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/19934)
+[ ID] Interval       Transfer     Bandwidth
+[ 31] 0.0000-16.0450 sec  2.63 MBytes  1.37 Mbits/sec
+[ 32] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/57004)
+[ 33] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/20033)
+[ ID] Interval       Transfer     Bandwidth
+[ 33] 0.0000-11.9522 sec  6.13 MBytes  4.30 Mbits/sec
+[ 34] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21116 (icwnd/mss/irtt=14/1448/39878)
+[ 32] 0.0000-63.3821 sec  1.50 MBytes   198 Kbits/sec
+[ 34] 0.0000-10.9964 sec  8.00 MBytes  6.10 Mbits/sec
+[SUM] 0.0000-65.8120 sec  15.6 MBytes  1.99 Mbits/sec
+[ 35] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/39973)
+[ ID] Interval       Transfer     Bandwidth
+[ 35] 0.0000-10.7612 sec  10.8 MBytes  8.38 Mbits/sec
+[ 36] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21119 (icwnd/mss/irtt=14/1448/40141)
+[ ID] Interval       Transfer     Bandwidth
+[ 36] 0.0000-10.9762 sec  11.4 MBytes  8.69 Mbits/sec
+[ 37] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21118 (icwnd/mss/irtt=14/1448/39711)
+[ ID] Interval       Transfer     Bandwidth
+[ 37] 0.0000-11.2453 sec  13.0 MBytes  9.70 Mbits/sec
+[ 38] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21113 (icwnd/mss/irtt=14/1448/20081)
+[ ID] Interval       Transfer     Bandwidth
+[ 38] 0.0000-11.0557 sec  12.0 MBytes  9.11 Mbits/sec
+[ 39] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21121 (icwnd/mss/irtt=14/1448/20027)
+[ ID] Interval       Transfer     Bandwidth
+[ 39] 0.0000-11.4441 sec  11.4 MBytes  8.34 Mbits/sec
+[ 40] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/19928)
+[ ID] Interval       Transfer     Bandwidth
+[ 40] 0.0000-10.5463 sec  8.38 MBytes  6.66 Mbits/sec
+[ 41] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21122 (icwnd/mss/irtt=14/1448/20043)
+[ ID] Interval       Transfer     Bandwidth
+[ 41] 0.0000-10.4653 sec  13.1 MBytes  10.5 Mbits/sec
+[ 42] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21123 (icwnd/mss/irtt=14/1448/19917)
+[ ID] Interval       Transfer     Bandwidth
+[ 42] 0.0000-11.4125 sec  8.38 MBytes  6.16 Mbits/sec
+[ 43] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21112 (icwnd/mss/irtt=14/1448/19967)
+[ ID] Interval       Transfer     Bandwidth
+[ 43] 0.0000-11.1874 sec  6.63 MBytes  4.97 Mbits/sec
+[ 44] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/19949)
+[ ID] Interval       Transfer     Bandwidth
+[ 44] 0.0000-11.2213 sec  8.50 MBytes  6.35 Mbits/sec
+[ 45] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/39919)
+[ ID] Interval       Transfer     Bandwidth
+[ 45] 0.0000-11.0038 sec  10.0 MBytes  7.62 Mbits/sec
+[ 46] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21116 (icwnd/mss/irtt=14/1448/19719)
+[ ID] Interval       Transfer     Bandwidth
+[ 46] 0.0000-11.1550 sec  9.13 MBytes  6.86 Mbits/sec
+[ 47] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/19920)
+[ ID] Interval       Transfer     Bandwidth
+[ 47] 0.0000-11.2416 sec  9.38 MBytes  7.00 Mbits/sec
+[ 48] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21118 (icwnd/mss/irtt=14/1448/40004)
+[ ID] Interval       Transfer     Bandwidth
+[ 48] 0.0000-12.7561 sec  11.5 MBytes  7.56 Mbits/sec
+[ 49] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21113 (icwnd/mss/irtt=14/1448/39897)
+[ 50] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21120 (icwnd/mss/irtt=14/1448/35970)
+[ ID] Interval       Transfer     Bandwidth
+[ 50] 0.0000-11.8226 sec  14.9 MBytes  10.6 Mbits/sec
+[ 49] 0.0000-54.7458 sec  3.46 MBytes   529 Kbits/sec
+[SUM] 0.0000-54.7458 sec  18.3 MBytes  2.81 Mbits/sec
+[ 51] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21121 (icwnd/mss/irtt=14/1448/19678)
+[ ID] Interval       Transfer     Bandwidth
+[ 51] 0.0000-14.8680 sec  8.13 MBytes  4.58 Mbits/sec
+[ 52] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21112 (icwnd/mss/irtt=14/1448/19993)
+[ ID] Interval       Transfer     Bandwidth
+[ 52] 0.0000-10.9353 sec  6.38 MBytes  4.89 Mbits/sec
+[ 53] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21114 (icwnd/mss/irtt=14/1448/20046)
+[ ID] Interval       Transfer     Bandwidth
+[ 53] 0.0000-15.1501 sec  3.88 MBytes  2.15 Mbits/sec
+[ 54] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21115 (icwnd/mss/irtt=14/1448/19994)
+[ 55] local 172.16.0.1 port 5001 connected with 172.16.0.4 port 21117 (icwnd/mss/irtt=14/1448/192222)
+[ ID] Interval       Transfer     Bandwidth
+[ 55] 0.0000-11.9140 sec  5.13 MBytes  3.61 Mbits/sec
+[ 54] 0.0000-47.1947 sec   139 KBytes  24.1 Kbits/sec
+[SUM] 0.0000-47.1947 sec  5.26 MBytes   935 Kbits/sec

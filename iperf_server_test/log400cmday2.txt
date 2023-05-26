@@ -1,0 +1,97 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size:  128 KByte (default)
+------------------------------------------------------------
+[  1] local 172.16.0.1 port 5001 connected with 172.16.0.3 port 64920 (icwnd/mss/irtt=14/1448/20019)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-11.2784 sec  20.5 MBytes  15.2 Mbits/sec
+[  2] local 172.16.0.1 port 5001 connected with 172.16.0.3 port 64921 (icwnd/mss/irtt=14/1448/20074)
+[ ID] Interval       Transfer     Bandwidth
+[  2] 0.0000-12.7561 sec  23.5 MBytes  15.5 Mbits/sec
+[  3] local 172.16.0.1 port 5001 connected with 172.16.0.3 port 64922 (icwnd/mss/irtt=14/1448/20012)
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-10.6630 sec  12.9 MBytes  10.1 Mbits/sec
+[  4] local 172.16.0.1 port 5001 connected with 172.16.0.3 port 64923 (icwnd/mss/irtt=14/1448/19851)
+[  5] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1979 (icwnd/mss/irtt=14/1448/19829)
+[ ID] Interval       Transfer     Bandwidth
+[  5] 0.0000-10.9402 sec  19.4 MBytes  14.9 Mbits/sec
+[  6] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1980 (icwnd/mss/irtt=14/1448/19692)
+[  6] 0.0000-12.6603 sec  24.4 MBytes  16.2 Mbits/sec
+[  7] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1981 (icwnd/mss/irtt=14/1448/79864)
+[  7] 0.0000-10.7143 sec  17.1 MBytes  13.4 Mbits/sec
+[  8] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1982 (icwnd/mss/irtt=14/1448/19903)
+[  8] 0.0000-10.6795 sec  11.3 MBytes  8.84 Mbits/sec
+[  9] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1983 (icwnd/mss/irtt=14/1448/19919)
+[ 10] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1985 (icwnd/mss/irtt=14/1448/19940)
+[ 10] 0.0000-10.4047 sec  19.3 MBytes  15.5 Mbits/sec
+[ 11] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1986 (icwnd/mss/irtt=14/1448/19945)
+[  9] 0.0000-63.4484 sec  15.2 MBytes  2.01 Mbits/sec
+[ 11] 0.0000-10.7287 sec  25.5 MBytes  19.9 Mbits/sec
+[SUM] 0.0000-66.8082 sec  59.9 MBytes  7.52 Mbits/sec
+[ 12] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1977 (icwnd/mss/irtt=14/1448/39990)
+[ 12] 0.0000-13.9608 sec  17.5 MBytes  10.5 Mbits/sec
+[ 13] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1979 (icwnd/mss/irtt=14/1448/20123)
+[ 13] 0.0000-10.7296 sec  10.1 MBytes  7.92 Mbits/sec
+[ 14] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1987 (icwnd/mss/irtt=14/1448/19946)
+[ 14] 0.0000-10.7108 sec  15.6 MBytes  12.2 Mbits/sec
+[ 15] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1980 (icwnd/mss/irtt=14/1448/19966)
+[ 15] 0.0000-11.1018 sec  23.0 MBytes  17.4 Mbits/sec
+[ 16] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1981 (icwnd/mss/irtt=14/1448/19985)
+[ 17] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1984 (icwnd/mss/irtt=14/1448/29978)
+[ 16] 0.0000-38.2269 sec  10.4 MBytes  2.28 Mbits/sec
+[ 17] 0.0000-11.0684 sec  25.3 MBytes  19.1 Mbits/sec
+[SUM] 0.0000-48.1464 sec  35.6 MBytes  6.21 Mbits/sec
+[ 18] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1988 (icwnd/mss/irtt=14/1448/19853)
+[ 18] 0.0000-11.1257 sec  22.0 MBytes  16.6 Mbits/sec
+[ 19] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1985 (icwnd/mss/irtt=14/1448/19888)
+[ 19] 0.0000-10.8288 sec  18.9 MBytes  14.6 Mbits/sec
+[ 20] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1983 (icwnd/mss/irtt=14/1448/19948)
+[ 20] 0.0000-10.7648 sec  26.6 MBytes  20.7 Mbits/sec
+[ 21] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1977 (icwnd/mss/irtt=14/1448/20047)
+[ 21] 0.0000-10.7675 sec  26.5 MBytes  20.6 Mbits/sec
+[ 22] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1979 (icwnd/mss/irtt=14/1448/40157)
+[ 22] 0.0000-12.0034 sec  21.6 MBytes  15.1 Mbits/sec
+[ 23] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1986 (icwnd/mss/irtt=14/1448/39899)
+[ 23] 0.0000-15.3655 sec  11.1 MBytes  6.07 Mbits/sec
+[ 24] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1978 (icwnd/mss/irtt=14/1448/20036)
+[ 24] 0.0000-11.4651 sec  9.25 MBytes  6.77 Mbits/sec
+[ 25] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1980 (icwnd/mss/irtt=14/1448/19741)
+[ 26] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1982 (icwnd/mss/irtt=14/1448/20031)
+[ 26] 0.0000-11.2246 sec  20.9 MBytes  15.6 Mbits/sec
+[ 25] 0.0000-54.7996 sec  7.50 MBytes  1.15 Mbits/sec
+[SUM] 0.0000-54.7996 sec  28.4 MBytes  4.34 Mbits/sec
+[ 27] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1984 (icwnd/mss/irtt=14/1448/20007)
+[ 27] 0.0000-11.0422 sec  23.3 MBytes  17.7 Mbits/sec
+[ 28] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1983 (icwnd/mss/irtt=14/1448/39990)
+[ 28] 0.0000-10.8287 sec  17.3 MBytes  13.4 Mbits/sec
+[ 29] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1977 (icwnd/mss/irtt=14/1448/20015)
+[ 29] 0.0000-11.2663 sec  15.8 MBytes  11.7 Mbits/sec
+[ 30] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1979 (icwnd/mss/irtt=14/1448/19837)
+[ 30] 0.0000-11.0651 sec  19.9 MBytes  15.1 Mbits/sec
+[ 31] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1985 (icwnd/mss/irtt=14/1448/19974)
+[ 31] 0.0000-10.8729 sec  24.3 MBytes  18.7 Mbits/sec
+[ 32] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1986 (icwnd/mss/irtt=14/1448/19956)
+[ 33] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1981 (icwnd/mss/irtt=1/1448/20000)
+[ 33] 0.0000-11.0936 sec  23.5 MBytes  17.8 Mbits/sec
+[ 34] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1987 (icwnd/mss/irtt=14/1448/19916)
+[ 34] 0.0000-10.8811 sec  24.4 MBytes  18.8 Mbits/sec
+[ 32] 0.0000-61.8125 sec  11.5 MBytes  1.56 Mbits/sec
+[SUM] 0.0000-61.8125 sec  59.4 MBytes  8.06 Mbits/sec
+[ 35] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1980 (icwnd/mss/irtt=14/1448/19940)
+[ 35] 0.0000-11.3371 sec  24.9 MBytes  18.4 Mbits/sec
+[ 36] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1982 (icwnd/mss/irtt=14/1448/20244)
+[ 36] 0.0000-10.4876 sec  19.9 MBytes  15.9 Mbits/sec
+[ 37] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1983 (icwnd/mss/irtt=14/1448/19911)
+[ 37] 0.0000-10.8530 sec  21.1 MBytes  16.3 Mbits/sec
+[ 38] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1977 (icwnd/mss/irtt=14/1448/20038)
+[ 38] 0.0000-10.6628 sec  22.0 MBytes  17.3 Mbits/sec
+[ 39] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1979 (icwnd/mss/irtt=14/1448/19927)
+[ 39] 0.0000-39.7571 sec  7.18 MBytes  1.52 Mbits/sec
+[ 40] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1985 (icwnd/mss/irtt=14/1448/39983)
+[ 40] 0.0000-11.2707 sec  16.3 MBytes  12.1 Mbits/sec
+[ 41] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1978 (icwnd/mss/irtt=14/1448/40085)
+[ 41] 0.0000-11.4915 sec  12.4 MBytes  9.03 Mbits/sec
+[ 42] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1981 (icwnd/mss/irtt=14/1448/20020)
+[ 42] 0.0000-11.4534 sec  9.38 MBytes  6.87 Mbits/sec
+[ 43] local 172.16.0.1 port 5001 connected with 172.16.0.5 port 1986 (icwnd/mss/irtt=14/1448/20041)
+[ 43] 0.0000-10.8854 sec  11.5 MBytes  8.86 Mbits/sec
