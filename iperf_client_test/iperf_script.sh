@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Number of iterations
-iterations=15
+iterations=60
 
 # Output file
-output_file="iperf_results.txt"
+output_file="iperf_results100cm.txt"
 
 # Header
 echo "Iteration | Throughput (Mbps)" > $output_file
